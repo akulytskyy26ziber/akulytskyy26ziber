@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 ¡Hola! Soy Artem Kulytskyy
 
-<!--
-**akulytskyy26ziber/akulytskyy26ziber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Informática apasionado por la tecnología y el desarrollo de software.
 
-Here are some ideas to get you started:
+Actualmente estoy formándome en el mundo de la informática y ampliando mis conocimientos en diferentes lenguajes y tecnologías. Me interesa especialmente aprender a desarrollar aplicaciones, trabajar con bases de datos y seguir mejorando mis habilidades como programador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Lenguajes y tecnologías
+
+Durante mi formación he trabajado con:
+
+☕ Java
+
+🐍 Python
+
+🗄️ SQL
+
+🐘 PHP
